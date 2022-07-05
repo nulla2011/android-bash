@@ -1,0 +1,1 @@
+rm -vr /data/data/com.netease.cloudmusic/files/encryptStatistic/cache/*

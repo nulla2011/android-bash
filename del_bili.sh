@@ -1,0 +1,1 @@
+rm -vr /data/data/tv.danmaku.bili/app_mod_resource/cache/*
