@@ -4,7 +4,10 @@ rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/ch
 rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/diskcache/*
 rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/mini/files/adcache/*
 rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/files/commonlog/tbs/com.tencent.mobileqq/*
+rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/files/tencent/msflogs/com/tencent/mobileqq/*
 rm -v /storage/emulated/0/Android/data/com.tencent.mobileqq/mfcache/com.tencent.mobileqq.cache/
-
-rm -vr /data/data/com.tencent.mobileqq/app_x5webview/*
 rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/TMAssistantSDK/Download/com.tencent.mobileqq/*
+rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/qzone/imageV2/*
+rm -vr /storage/emulated/0/Android/data/com.tencent.mobileqq/qzone/zip_cache/*
+rm -vr /storage/emulated/0/tencent/msflogs/com/tencent/mobileqq/*
+rm -vr /data/data/com.tencent.mobileqq/app_x5webview/*

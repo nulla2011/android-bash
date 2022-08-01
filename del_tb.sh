@@ -1,0 +1,1 @@
+rm -vr /data/data/com.taobao.taobao/app_zcache/*
